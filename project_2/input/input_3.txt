@@ -1,0 +1,4 @@
+0:04	Message from input (3) at time (0:04)
+0:06	Message from input (3) at time (0:06)
+0:16	Message from input (3) at time (0:16)
+0:22	Message from input (3) at time (0:22)

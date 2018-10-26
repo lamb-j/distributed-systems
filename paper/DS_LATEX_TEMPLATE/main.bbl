@@ -1,0 +1,8 @@
+\begin{thebibliography}{1}
+
+\bibitem{Floyd:SIGCOMM00}
+S.~Floyd, M.~Handley, J.~Padhye, and J.~Widmer,
+\newblock ``Equation-based congestion control for unicaqt applications,''
+\newblock in {\em Proceedings of the {ACM} SIGCOMM}, 2000.
+
+\end{thebibliography}

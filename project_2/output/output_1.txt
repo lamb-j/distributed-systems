@@ -1,0 +1,49 @@
+[0:04]: previous hop is changed to client [3456]
+[0:04]: previous hop is changed to client [3459]
+[0:05]: next hop is changed to client [3459]
+[0:06]: started election, send election message to client [3459]
+[0:07]: token [3968] was received
+[0:07]: post "Message from input (1) at time (0:01)" was sent
+[0:07]: post "Message from input (1) at time (0:01)" was delivered to all successfully
+[0:07]: post "Message from input (1) at time (0:03)" was sent
+[0:07]: post "Message from input (1) at time (0:03)" was delivered to all successfully
+[0:07]: post "Message from input (1) at time (0:07)" was sent
+[0:07]: post "Message from input (1) at time (0:07)" was delivered to all successfully
+[0:08]: token [3968] was sent to client [3459]
+[0:08]: post "Message from input (3) at time (0:04)" from client [3459] was relayed
+[0:10]: post "Message from input (3) at time (0:06)" from client [3459] was relayed
+[0:11]: post "Message from input (1) at time (0:11)" was sent
+[0:11]: post "Message from input (1) at time (0:11)" was delivered to all successfully
+[0:17]: next hop is changed to client [3455]
+[0:17]: started election, send election message to client [3455]
+[0:22]: next hop is changed to client [3455]
+[0:22]: started election, send election message to client [3455]
+[0:27]: next hop is changed to client [3455]
+[0:27]: started election, send election message to client [3455]
+[0:32]: next hop is changed to client [3455]
+[0:33]: started election, send election message to client [3455]
+[0:38]: next hop is changed to client [3455]
+[0:38]: started election, send election message to client [3455]
+[0:44]: next hop is changed to client [3455]
+[0:45]: started election, send election message to client [3455]
+[0:50]: next hop is changed to client [3455]
+[0:50]: started election, send election message to client [3455]
+[0:55]: next hop is changed to client [3455]
+[0:56]: started election, send election message to client [3455]
+[1:01]: next hop is changed to client [3455]
+[1:02]: started election, send election message to client [3455]
+[1:07]: next hop is changed to client [3455]
+[1:08]: started election, send election message to client [3455]
+[1:13]: next hop is changed to client [3455]
+[1:13]: started election, send election message to client [3455]
+[1:18]: next hop is changed to client [3455]
+[1:19]: started election, send election message to client [3455]
+[1:24]: next hop is changed to client [3455]
+[1:24]: started election, send election message to client [3455]
+[1:29]: next hop is changed to client [3455]
+[1:30]: started election, send election message to client [3455]
+[1:35]: next hop is changed to client [3455]
+[1:36]: started election, send election message to client [3455]
+[1:41]: next hop is changed to client [3455]
+[1:42]: started election, send election message to client [3455]
+[1:46] Depart the ring

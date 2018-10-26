@@ -1,0 +1,14 @@
+- Change blocking recv to looping recv
+- refactor election/leader code
+
+
+- take token stuff back out and find this -1 error
+
+
+-------
+ix errors
+
+#include <cstring>
+
+
+int token = 0;

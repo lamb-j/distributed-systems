@@ -1,0 +1,67 @@
+Seed
+  1. A sorting classification of parallel rendering
+  2. A data distribued, parallel algorithm for ray-traced volume rendering
+
+Application
+  1. Chromium
+
+- A Survey of Distributed Parallel Rendering and Visualization Softwares
+
+I want to explore different classes of distributed parallel rendering softwares, and
+the differences between specific software distributions within each class.
+
+I want compare the different methods used to distribute computation across computation
+units. 
+
+-------
+Algorithms and Theory
+
+1993 - A data distributed, parallel algorithm for ray-traced volume rendering
+2010 - Large data visualization on distributed memory multi-GPU clusters
+2010 - MPI-hybrid parallelism for volume rendering on large, multi-core systems
+2012 - Hybrid parallelism for volume rendering on large-, multi-, and many-core systems
+
+High Performance Visualization – Enabling Extreme-Scale Scientific Insight.
+
+Extreme Scaling of Production Visualization Software on Diverse Architectures
+
+In Situ Data Processing for Extreme-Scale Computing
+
+-------
+Scientific Software
+  VTK
+    1996 - The Visualization Toolkit-30
+  Equalizer
+    2009 - Equalizer: A scalable parallel rendering framework
+  Visit
+    2013 - VisIt: An end-user tool for visualizing and analyzing very large data
+  Chromium
+    2002 - Chromium: a stream-processing framework for interactive rendering on clusters
+  OpenSG
+    2002 - OpenSG: A scene graph system for flexible and efficient realtime rendering for virtual and augmented reality applications
+
+  Ensight
+  Paraview
+    2015 - The ParaView Guide: A Parallel Visualization Application
+  VTKm
+
+
+-------
+
+Render Farming
+Multiblend
+EnBlend
+Distributed single frame render for Blender Cycles (macOS, Linux, Cygwin/Windows)
+ 
+Comercial
+  Data:
+    Techplot
+
+  Renderman
+  V-Ray
+  MentalRay
+  
+VRAY 
+  3ds Max, Maya, Rhino
+  https://www.vray.com/vray_for_3ds_max/manual/vray_for_3ds_max_distributed_rendering.shtml
+
